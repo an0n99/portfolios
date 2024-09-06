@@ -6,7 +6,7 @@ import { Analytics } from "./components/analytics";
 
 export const metadata: Metadata = {
   title: {
-    default: "an0n99",
+    default: "st3rlxx",
     template: "%s | chronark.com",
   },
   description: "Entrepenuer and Web3 Developer. Founder of Arcanium",
