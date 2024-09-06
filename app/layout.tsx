@@ -11,11 +11,11 @@ export const metadata: Metadata = {
   },
   description: "Entrepenuer and Web3 Developer. Founder of Arcanium",
   openGraph: {
-    title: "an0n99",
+    title: "st3rlxx",
     description:
       "Entrepenuer and Web3 Developer. Founder of Arcanium",
     url: "https://chronark.com",
-    siteName: "an0n99",
+    siteName: "st3rlxx",
     images: [
       {
         url: "https://https://nextjs-portfolio-pageview-counter2-eta.vercel.app//og.png",
@@ -38,7 +38,7 @@ export const metadata: Metadata = {
     },
   },
   twitter: {
-    title: "Chronark",
+    title: "st3rlxx",
     card: "summary_large_image",
   },
   icons: {
