@@ -1,26 +1,17 @@
 ---
-title: highstorm.app
-description: Simple, fast, open source custom event tracking
-date: "2023-05-01"
-url: https://highstorm.app
+title: Dagger
+description: Dagger is fork of the popular proxy Cloak, but modified to introduce Proton PGP signing, 256 AES encryption and further obfuscation
+date: "2024-06-10"
+url: https://github.com/an0n99/Dagger
 published: true
-repository: "chronark/highstorm"
-  
 ---
 
 
  [![](https://highstorm.app/og.png)](https://highstorm.app) 
 
-Reduce the noise in your Slack workspace by consolidating all your event data into one place, filtering alerts by relevance, and customizing your alert settings to suit your needs.
 
-###### Consolidate Events
-Get all your event data in one place to reduce alert noise
+High level explaination of Cloak: 
 
-###### Stay Focused
-Keep your Slack workspace focused on what's important
-
-###### Customizable Settings
-Customize your alert settings to suit your unique needs
-
-###### Clear Overview
-Get a clear overview of all your alerts in one place
+Cloak is a pluggable transport that enhances traditional proxy tools like OpenVPN to evade sophisticated censorship and data discrimination.
+Cloak is not a standalone proxy program. Rather, it works by masquerading proxied traffic as normal web browsing activities. In contrast to traditional tools which have very prominent traffic fingerprints and can be blocked by simple filtering rules, it's very difficult to precisely target Cloak with little false positives. This increases the collateral damage to censorship actions as attempts to block Cloak could also damage services the censor state relies on.
+To any third party observer, a host running Cloak server is indistinguishable from an innocent web server. Both while passively observing traffic flow to and from the server, as well as while actively probing the behaviours of a Cloak server. 
