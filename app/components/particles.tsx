@@ -13,8 +13,8 @@ interface ParticlesProps {
 
 export default function Particles({
 	className = "",
-	quantity = 200,
-	staticity = 20,
+	quantity = 90,
+	staticity = 15,
 	ease = 70,
 	refresh = false,
 }: ParticlesProps) {
