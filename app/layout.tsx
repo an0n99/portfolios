@@ -14,7 +14,7 @@ export const metadata: Metadata = {
     title: "st3rlxx",
     description:
       "Entrepenuer and Web3 Developer. Founder of Arcanium",
-    url: "https://chronark.com",
+    url: "https://nextjs-portfolio-pageview-counter2-eta.vercel.app/",
     siteName: "st3rlxx",
     images: [
       {
